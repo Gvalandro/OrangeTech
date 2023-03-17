@@ -23,8 +23,8 @@ public class Mentoria extends Conteudo{
     public String toString() {
         return "Mentoria{" +
                 "titulo=" +getTitulo() +
-                "data=" + data +
-                "descricao="+getDescrição() +
+                ",data=" + data +
+                ",descricao="+getDescrição() +
                 '}';
     }
 
